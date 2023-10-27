@@ -64,6 +64,22 @@ h1 {
   color: #888;
 }
 
+#app{
+  display:none;
+}
+
+#img_background{
+  width:100vw;
+  height:100vh;
+  display:block;
+}
+
+#img_img{
+  width:100%;
+  height:100%;
+}
+
+
 button {
   border-radius: 8px;
   border: 1px solid transparent;
